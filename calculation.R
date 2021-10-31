@@ -1,4 +1,4 @@
-library(irr)
+library(irr) # version: 0.84.1
 
 dat <- read.csv('raw_data.csv')
 
