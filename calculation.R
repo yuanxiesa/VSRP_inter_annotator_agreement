@@ -2,7 +2,7 @@ library(irr) # version: 0.84.1
 
 dat <- read.csv('raw_data.csv')
 
-kappa2(dat)
+kappa2(dat) # 0.671
 
 ## criteria
 # 0.01 ??? 0.20 slight agreement
